@@ -2,6 +2,10 @@
 
 > Nuxtjs Demo
 
+## Site
+
+[nuxt-demo-eight.vercel.app](nuxt-demo-eight.vercel.app)
+
 ## Build Setup
 
 ```bash
